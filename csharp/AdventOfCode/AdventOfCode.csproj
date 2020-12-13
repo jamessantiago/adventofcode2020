@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="AoCHelper" Version="0.10.0" />
+    <PackageReference Include="Microsoft.Z3.x64" Version="4.8.9" />
   </ItemGroup>
 
   <PropertyGroup>
