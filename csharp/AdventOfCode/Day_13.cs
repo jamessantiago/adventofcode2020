@@ -8,7 +8,7 @@ using System.IO;
 using System.Text.RegularExpressions;
 using Microsoft.Z3;
 
-namespace AdventOfCode.Inputs
+namespace AdventOfCode
 {
     public static class BetterEnumerable
     {
