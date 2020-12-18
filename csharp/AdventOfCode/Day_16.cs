@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Text.RegularExpressions;
 using Microsoft.Z3;
+
 namespace AdventOfCode
 {
     public class Day_16 : BaseDay
